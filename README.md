@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haithamghaith&label=Profile%20views&color=0e75b6&style=flat" alt="haithamghaith" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **Flutter, Embedded systems**
 
 - 💬 Ask me about **Embedded systems**
 
