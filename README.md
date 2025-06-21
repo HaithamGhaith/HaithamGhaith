@@ -36,32 +36,35 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🧠 Raspberry Pi System (Offline)</h4>
-      <ul>
+    <td width="50%" valign="top" align="center">
+      <h4>🧠 Raspberry Pi System (Offline)</h4>
+      <ul align="left">
         <li>Raspberry Pi hotspot + captive portal</li>
         <li>Flask touchscreen control UI</li>
         <li>MAC tracking + face recognition</li>
         <li>Local logs + Firebase sync</li>
         <li><a href="https://github.com/HaithamGhaith/IpBeep-PI-Side">View Pi Repo →</a></li>
       </ul>
-      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_portal.png" width="270"/></p>
-      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_recognition.png" width="270"/></p>
+      <img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_portal.png" width="90%" />
+      <br/>
+      <img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Recognized.png" width="90%" />
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🌐 Web Dashboard (Firebase)</h4>
-      <ul>
+    <td width="50%" valign="top" align="center">
+      <h4>🌐 Web Dashboard (Firebase)</h4>
+      <ul align="left">
         <li>React + Firebase instructor portal</li>
         <li>Course/session view & live tracking</li>
         <li>Log visualizations + attendance editing</li>
         <li>Realtime updates via Firestore</li>
         <li><a href="https://github.com/HaithamGhaith/IpBeep">View Web Repo →</a></li>
       </ul>
-      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep/blob/main/src/assets/Screenshots/1.png" width="270"/></p>
-      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep/blob/main/src/assets/Screenshots/3.png" width="270"/></p>
+      <img src="https://github.com/HaithamGhaith/IpBeep/blob/main/src/assets/Screenshots/1.png" width="90%" />
+      <br/>
+      <img src="https://github.com/HaithamGhaith/IpBeep/blob/main/src/assets/Screenshots/3.png" width="90%" />
     </td>
   </tr>
 </table>
+
 
 
 ---
