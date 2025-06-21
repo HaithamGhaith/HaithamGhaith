@@ -32,25 +32,37 @@
 ### 🚀 Featured Project
 
 #### 🛰️ IpBeep – Smart Attendance System
-> Combines Wi-Fi validation & Face Recognition using Raspberry Pi for automated classroom attendance.
-
-- 🔌 Raspberry Pi hotspot & captive portal for student check-in  
-- 🔍 MAC address + face recognition for dual-layer validation  
-- 🔥 Realtime Firebase sync & Flask-based UI  
-- 📂 Full offline-first operation with cloud backup
-
-🔗 [View the Repo →](https://github.com/HaithamGhaith/IpBeep-PI-Side)
+> A two-part smart attendance system combining **embedded face recognition** on Raspberry Pi with a **React-based instructor dashboard**.
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_portal.png" width="350"/></td>
-    <td align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_recognition.png" width="350"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_tracking.png" width="350"/></td>
-    <td align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Recognized.png" width="350"/></td>
+    <td width="50%" valign="top">
+      <h4 align="center">🧠 Raspberry Pi System (Offline)</h4>
+      <ul>
+        <li>Raspberry Pi hotspot + captive portal</li>
+        <li>Flask touchscreen control UI</li>
+        <li>MAC tracking + face recognition</li>
+        <li>Local logs + Firebase sync</li>
+        <li><a href="https://github.com/HaithamGhaith/IpBeep-PI-Side">View Pi Repo →</a></li>
+      </ul>
+      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_portal.png" width="270"/></p>
+      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep-PI-Side/blob/main/assets/Screenshots/Start_recognition.png" width="270"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🌐 Web Dashboard (Firebase)</h4>
+      <ul>
+        <li>React + Firebase instructor portal</li>
+        <li>Course/session view & live tracking</li>
+        <li>Log visualizations + attendance editing</li>
+        <li>Realtime updates via Firestore</li>
+        <li><a href="https://github.com/HaithamGhaith/IpBeep">View Web Repo →</a></li>
+      </ul>
+      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep/blob/main/src/assets/Screenshots/1.png" width="270"/></p>
+      <p align="center"><img src="https://github.com/HaithamGhaith/IpBeep/blob/main/src/assets/Screenshots/3.png" width="270"/></p>
+    </td>
   </tr>
 </table>
+
 
 ---
 
